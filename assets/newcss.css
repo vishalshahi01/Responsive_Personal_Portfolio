@@ -289,8 +289,10 @@ img {
   /* fill: hsl(69, 69%, 61%); */
 }
 .home__blob-img {
-  width: 330px ;
+width: 350px ;
+  height: 400px;
   padding-left: 20px;
+  border-radius: 70%
 }
 .home__data {
   grid-column: 1/3;
